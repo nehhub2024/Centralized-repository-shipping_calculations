@@ -1,6 +1,5 @@
-# Here is a new update by nehhub2024
-# Shipping Cost Calculator
-
+#Here is a new update by nehhub2024
+#Shipping cost calculator
  
 
 ## Input package weight and shipping rate
